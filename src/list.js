@@ -5,7 +5,7 @@ const List = ({ items, removeItem, editItem }) => {
       {items.map((item) => {
         const { id, title } = item;
 
-
+        
         return ( 
   <div className='ouputcontainer'>
      <h3 className='addeditem'  >{title}</h3>

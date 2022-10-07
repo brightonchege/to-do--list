@@ -83,9 +83,7 @@ import List from './list';
            </header>
          </div>
        </div>
-       
     </div>
- 
     );
   }
   
